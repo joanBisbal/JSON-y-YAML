@@ -1,4 +1,4 @@
-# JSON: Lenguaje de programación
+# JSON
 ![JSON](https://cdn.icon-icons.com/icons2/2699/PNG/512/json_logo_icon_168490.png)
 ## ¿Qué es JSON?
 JSON (JavaScript Object Notation) es un formato de texto derivado de la sintaxis de JavaScript. Aunque no tiene como objetivo la creación de programas, se utiliza para el acceso, almacenamiento e intercambio de datos, siendo considerado una alternativa al lenguaje XML.
